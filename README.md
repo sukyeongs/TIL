@@ -7,7 +7,7 @@
 
 
 ## 🛠 Django
-
+- Django Simple JWT: [djangorestframework_simplejwt](https://github.com/sukyeongs/TIL/blob/main/Django/simple_jwt.md)
 
 ## 🛠 Spring
 
