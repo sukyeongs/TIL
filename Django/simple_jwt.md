@@ -2,7 +2,7 @@
 
 DRF 공식문서에 따르면 djangorestframework-`simplejwt` 라이브러리를 사용할 것을 권함. (djangorestframework-`jwt` 라이브러리는 더이상 업데이트 x)
 
-## 1. djangorestframework-simple jwt 설치
+## 1. djangorestframework-simplejwt 설치
 
 1) terminal에 입력
 
@@ -10,7 +10,7 @@ DRF 공식문서에 따르면 djangorestframework-`simplejwt` 라이브러리를
 pip install djangorestframework-simplejwt
 ```
 
-2) [settings.py](http://settings.py) 수정
+2) settings.py 수정
 
 ```python
 REST_FRAMEWORK = {
@@ -31,7 +31,7 @@ INSTALLED_APPS = [
 ]
 ```
 
-3) [urls.py](http://urls.py) 수정
+3) urls.py 수정
 
 ```python
 from rest_framework_simplejwt.views import (
