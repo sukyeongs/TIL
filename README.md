@@ -29,3 +29,6 @@
 
 
 ## 🌈 Notion
+
+
+## 🌈 Slack
