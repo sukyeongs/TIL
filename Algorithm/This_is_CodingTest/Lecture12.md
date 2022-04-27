@@ -9,11 +9,14 @@
 
 ex. 루트 노드부터 시작하여 거쳐가는 노드의 합을 최대로 (그래프/트리 예시)
 
-![답](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d19aebb-37f0-4ad0-a746-f44c9e61ab16/Untitled.png)
+![원래답](https://user-images.githubusercontent.com/80563849/165625948-23f9ef99-8cf8-45ca-a919-76ddeb6e4738.png)
+
+
 
 - `그리디`로 해결한 풀이
 
-![그리디 사용](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/85e67061-d2d3-4235-8477-d33118cd1920/Untitled.png)
+![그리디사용](https://user-images.githubusercontent.com/80563849/165625990-94f831ac-b8bb-41cc-ad36-24c0430418c0.png)
+
 
 현 상황에서 **가장 큰 값**으로 이동
 
