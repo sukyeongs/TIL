@@ -8,7 +8,8 @@
 
 ## 📍 스택 자료구조
 
-![스택.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdf921c9-be4e-40f4-b9fd-0d64c5a4583c/스택.jpeg)
+![스택](https://user-images.githubusercontent.com/80563849/165786211-04aeb1a4-4d20-48e1-9f46-cdb81b2cff48.jpeg)
+
 
 - `먼저 들어온` 데이터가 `나중에 나가는` 형식(= `선입후출`)의 자료구조
 - 입구와 출구가 동일한 형태
@@ -35,7 +36,9 @@ print(stack)   # 최하단 원소부터 출력
 
 ## 📍 큐 자료구조
 
-![큐.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6afbdbf2-1033-40b6-ac7b-b9a317d6c94e/큐.png)
+![큐](https://user-images.githubusercontent.com/80563849/165786458-a46f5111-235b-456b-a281-53a99e54f50d.png)
+
+
 
 - `먼저 들어온` 데이터가 `먼저 나가는` 형식(= `선입선출`)의 자료구조
 - 입구와 출구가 모두 뚫려있는 형태
