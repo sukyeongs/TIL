@@ -19,6 +19,7 @@
 - 15강: [구현 유형 문제 풀이](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture15.md)
 - 16강: [스택과 큐 자료구조](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture16.md)
 - 17강: [재귀 함수](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture17.md)
+- 18강: [DFS 알고리즘](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture18.md)
 - 19강: [BFS 알고리즘](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture19.md)
 - 20강: [DFS & BFS 기초 문제 풀이](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture20.md)
 
