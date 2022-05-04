@@ -24,6 +24,7 @@
 - 20강: [DFS & BFS 기초 문제 풀이](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture20.md)
 - 21강: [선택 정렬](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture21.md)
 - 22강: [삽입 정렬](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture22.md)
+- 23강: [퀵 정렬](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture23.md)
 
 
 ## 🛠 Django
