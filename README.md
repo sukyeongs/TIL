@@ -22,6 +22,7 @@
 - 18강: [DFS 알고리즘](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture18.md)
 - 19강: [BFS 알고리즘](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture19.md)
 - 20강: [DFS & BFS 기초 문제 풀이](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture20.md)
+- 21강: [선택 정렬](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture21.md)
 
 
 ## 🛠 Django
