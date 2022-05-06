@@ -35,7 +35,7 @@
 #### 이진 탐색
 - 26강: [이진 탐색 개요](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture26.md)
 - 27강: [이진 탐색 기초 문제 풀이](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture27.md)   
-### 다이나믹 프로그래밍
+#### 다이나믹 프로그래밍
 - 28강: [다이나믹 프로그래밍 개요](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture28.md)  
 - 29강: [다이나믹 프로그래밍 기초 문제 풀이](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture29.md)
 
