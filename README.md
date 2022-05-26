@@ -46,6 +46,7 @@
 
 
 ## 🛠 Spring
+- JPA H2버전에서 MySQL버전으로 바꾸기: [jpa_mysql_setting](https://github.com/sukyeongs/TIL/blob/main/Spring/jpa_mysql_setting.md)
 
 
 
