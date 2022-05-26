@@ -47,7 +47,7 @@
 
 ## 🛠 Spring
 - JPA H2버전에서 MySQL버전으로 바꾸기: [jpa_mysql_setting](https://github.com/sukyeongs/TIL/blob/main/Spring/jpa_mysql_setting.md)
-
+- [Error] Execution failed for task ‘:test’: [Execution failed for task ':test'](https://github.com/sukyeongs/TIL/blob/main/Spring/Error/Execution_failed_for_task_%E2%80%98:test%E2%80%99.md)
 
 
 ## ⚙ Python
