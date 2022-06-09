@@ -40,6 +40,8 @@
 - 29강: [다이나믹 프로그래밍 기초 문제 풀이](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture29.md)  
 #### 최단 경로 알고리즘
 - 30강: [다익스트라 최단 경로 알고리즘](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture30.md)
+- 31강: [플로이드 워셜 알고리즘](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture31.md)
+
 
 ## 🛠 Django
 - Django Simple JWT: [djangorestframework_simplejwt](https://github.com/sukyeongs/TIL/blob/main/Django/simple_jwt.md)
