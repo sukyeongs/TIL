@@ -42,7 +42,9 @@
 - 30강: [다익스트라 최단 경로 알고리즘](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture30.md)  
 - 31강: [플로이드 워셜 알고리즘](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture31.md)  
 - 32강: [최단 경로 알고리즘 기초 문제 풀이](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture32.md)  
-
+#### 기타 그래프 이론
+- 33강: [서로소 집합 자료구조](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture33.md)  
+- 34강: [서로소 집합을 활용한 사이클 판별](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture34.md)  
 
 ## 🛠 Django
 - Django Simple JWT: [djangorestframework_simplejwt](https://github.com/sukyeongs/TIL/blob/main/Django/simple_jwt.md)
