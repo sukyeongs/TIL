@@ -45,6 +45,7 @@
 #### 기타 그래프 이론
 - 33강: [서로소 집합 자료구조](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture33.md)  
 - 34강: [서로소 집합을 활용한 사이클 판별](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture34.md)  
+- 35강: [크루스칼 알고리즘](https://github.com/sukyeongs/TIL/blob/main/Algorithm/This_is_CodingTest/Lecture35.md)  
 
 ## 🛠 Django
 - Django Simple JWT: [djangorestframework_simplejwt](https://github.com/sukyeongs/TIL/blob/main/Django/simple_jwt.md)
